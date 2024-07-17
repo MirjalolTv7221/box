@@ -1,0 +1,37 @@
+.box1{
+ width: 500px;
+ height: 400px; 
+ background-color: red;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ 
+}
+
+.h1{
+    color: rgb(246, 250, 253);
+}
+
+.father{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+     
+
+}
+.hh{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px
+}
+.aa{
+    text-align: center;
+    
+}
+
+
+
+
+
+
